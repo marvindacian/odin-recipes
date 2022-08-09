@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://t3.ftcdn.net/jpg/04/27/72/00/360_F_427720095_3xg8xNheM6ER7Zg9xot50lgekD2xTFAM.jpg); background-position: center; background-repeat:repeat; background-size:auto; background-position:top;
+}
+
+img {
+    border-radius: 25px;
+  background: #ffc14a;
+  padding: 10px;
+  opacity: 0.8;
+}
+
+div a {
+    font-family: cursive; font-size:xx-large; font-weight: bold; background-color:antiquewhite; opacity: 0.8;
+}
